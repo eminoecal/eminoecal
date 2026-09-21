@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Lua & ReactJS**
 
-- 🤝 I’m looking for help with [ConnectGronau](https://github.com/eminoecal/ConnectGronau)
+- 🤝 I’m looking for help with [Gronau Plus](https://github.com/eminoecal/gronauplus)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eminoecal/eminoecal](https://github.com/eminoecal/eminportfolio)
 
